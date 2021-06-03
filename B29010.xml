@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands gentle admonition: or, A warning-piece to all sinners. From hateful pride see thou thy heart keep clear, from covetousness instruct thy brother dear; in innocent blood be sure thou have no hand, the Holy Scriptures the same doth us command. The tune is, Poor Toms progress: or, John Dory sould his ambling nag for kick-shaws. / By Thomas Robins, a well-wisher to the Church of England.</title>
+            <author>Robins, Thomas, fl. 1672-1685.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29010</idno><idno type="EEBO-CITATION">99888098</idno>
+  <idno type="VID">193155</idno>
+  <idno type="EEBO-PROQUEST">2240890512</idno>
+  
+            <idno type="STC">Wing R1649</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.10[13]</idno>
+            <idno type="STC">ESTC R229017</idno>
+            <idno type="PROQUEST">ocm99888098</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888098e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193155)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:2[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands gentle admonition: or, A warning-piece to all sinners. From hateful pride see thou thy heart keep clear, from covetousness instruct thy brother dear; in innocent blood be sure thou have no hand, the Holy Scriptures the same doth us command. The tune is, Poor Toms progress: or, John Dory sould his ambling nag for kick-shaws. / By Thomas Robins, a well-wisher to the Church of England.</title>
+                  <author>Robins, Thomas, fl. 1672-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright, and J. Clarke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1674 and 1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing CD-ROM, 1996.</note>
+                  <note>Verse: "Good people all I pray draw near,".</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Conduct of life --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:193155:1"/>
+            <head>
+               <hi>Englands Gentle Admonition:</hi> OR, A Warning-Piece to all Sinners.</head>
+            <argument>
+               <lg>
+                  <l>From hateful Pride see thou thy heart keep clear,</l>
+                  <l>From Covetousness Instruct thy Brother dear;</l>
+                  <l>In Innocent Blood be sure thou have no hand,</l>
+                  <l>The Holy Scriptures the same doth us command.</l>
+               </lg>
+            </argument>
+            <opener>The Tune is, <hi>Poor Toms Progress:</hi> Or, <hi>John Dory sould his ambling Nag for Kick-shaws.</hi>
+            </opener>
+            <byline>By <hi>Thomas Robins,</hi> a Well-wisher to the Church of <hi>England.</hi>
+            </byline>
+            <div n="1" type="part">
+               <p>
+                  <figure>
+                     <sp>
+                        <p>Sin causeth Righteous be kill'd in the Gates.</p>
+                     </sp>
+                  </figure>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>GOod People all I pray draw near,</l>
+                  <l>And to these Lines a while give ear;</l>
+                  <l>For I purpose now to declare</l>
+                  <l>poor <hi>Englands</hi> Misery:</l>
+                  <l>And the true cause of these our Woes,</l>
+                  <l>I unto you will here disclose,</l>
+                  <l>The Lord Convert poor <hi>Englands</hi> Foes</l>
+                  <l>from Envy.</l>
+               </lg>
+               <lg>
+                  <l>But many are now so Wicked grown,</l>
+                  <l>The Scriptures true they will not own;</l>
+                  <l>For Charity is little shown</l>
+                  <l>in these our Sinful Days:</l>
+                  <l>That the Poor in streets may starve and die</l>
+                  <l>Yet Wicked Pride is mounted high,</l>
+                  <l>And poor content doth a bleeding lye,</l>
+                  <l>more pitty.</l>
+               </lg>
+               <lg>
+                  <l>But Extortion bears so great a sway,</l>
+                  <l>It brings all Trading to Decay;</l>
+                  <l>Which makes the Poor cry out and say</l>
+                  <l>have pitty Lord with speed:</l>
+                  <l>Both Rich and Poor we all do cry</l>
+                  <l>To thee O Lord, that sits on High,</l>
+                  <l>Defend us from Blood Tyranny,</l>
+                  <l>in Mercy.</l>
+               </lg>
+               <lg>
+                  <l>The Gospel pure O Lord defend,</l>
+                  <l>We have none else to stand our Friend;</l>
+                  <l>Therefore thy helping hand down send,</l>
+                  <l>that it may flourish still:</l>
+                  <l>In spight of <hi>Jew,</hi> of <hi>Turk</hi> or <hi>Pope,</hi>
+                  </l>
+                  <l>O Lord in thee is all our hope,</l>
+                  <l>To let the Gospel have full Scope</l>
+                  <l>in <hi>England,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>That neither <hi>Pagan, Turk</hi> or <hi>Jew,</hi>
+                  </l>
+                  <l>Or any of their Wicked Crew,</l>
+                  <l>Have Power our Kingdom to subdue,</l>
+                  <l>but stand in our defence:</l>
+                  <l>Forsake us not in our distress,</l>
+                  <l>But pardon Lord our Wickedness,</l>
+                  <l>And turn us Lord as thou thinks best</l>
+                  <l>in Mercy.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part,</head>
+               <opener>To the same Tune.</opener>
+               <lg>
+                  <l>For too many have we in this Land,</l>
+                  <l>That plays their Game so under hand;</l>
+                  <l>It is hard for all to understand</l>
+                  <l>the full intent they have</l>
+                  <l>To bring us all to grief and woe,</l>
+                  <l>Church-Government to overthrow,</l>
+                  <l>O Lord above thy Mercy shew</l>
+                  <l>to <hi>England.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>It is hateful Pride and deadly Sin,</l>
+                  <l>Which daily we do all run in,</l>
+                  <l>God doth these judgements on us bring,</l>
+                  <l>as a Warning-piece to all:</l>
+                  <l>Therefore let all good Christians pray,</l>
+                  <l>Vnto the Lord both Night and Day,</l>
+                  <l>That he would turn his Wrath away</l>
+                  <l>from <hi>England.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>What hateful Sin can any name,</l>
+                  <l>Is not in <hi>England</hi> to our shame,</l>
+                  <l>A daily practice made in fame,</l>
+                  <l>yet few doth strive to mend:</l>
+                  <l>If God do not us Mercy shew,</l>
+                  <l>But down his judgements on us throw,</l>
+                  <l>When it is too late we all shall know</l>
+                  <l>our Folly.</l>
+               </lg>
+               <lg>
+                  <l>So many Sects now in <hi>England</hi> are,</l>
+                  <l>We all stand need to have a care,</l>
+                  <l>That we be not catcht within the Snare</l>
+                  <l>of that Rebellious Crew:</l>
+                  <l>That would both King and State destroy,</l>
+                  <l>The Church and <hi>England</hi> to annoy,</l>
+                  <l>But God I hope will turn their joy</l>
+                  <l>to Mourning.</l>
+               </lg>
+               <lg>
+                  <l>The Innocent blood God would defend,</l>
+                  <l>If we would our sinful Lives but mend,</l>
+                  <l>And Night and Day on God attend,</l>
+                  <l>by Prayer we may obtain</l>
+                  <l>What ever we desire to have,</l>
+                  <l>What Tongue can speak or heart can crave,</l>
+                  <l>If we repent we may receive</l>
+                  <l>his Mercy.</l>
+               </lg>
+               <lg>
+                  <l>The Lord preserve our gracious King,</l>
+                  <l>And rule his heart in every thing,</l>
+                  <l>And at the last to Heaven him bring,</l>
+                  <l>where Glorious Angels be:</l>
+                  <l>The Commonalty O Lord defend,</l>
+                  <l>Convert us Lord our Lives to mend,</l>
+                  <l>That we may make a faithful End,</l>
+                  <l>unto thee.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="authors_advice_to_Christians">
+            <p>Here followeth the Authors Advice to all true Christians, to desire them that these my Lines may be no offence unto them, but rather take it as a gentle Admonition; for we can<g ref="char:EOLhyphen"/>not instruct one another too much in these sad times, for we do not know how soon the Judgement of God will fall upon us, for the Lord hath given us a fair Warning to amend our sinful Lives, by his mercy in staying the hands of those cruel people, which by relation had an intent to destroy so much Innocent Blood: Which the Lord of his Mercy forgive them: And I desire that we may all desire the Lord to forgive them; for if we look to be forgiven, we ought to forgive, remember the Lords Prayer. But indeed the truth is, we be all axcessary to it; for it is our Sins that hath brought it on us, for there is not any sin that man can name, but it is committed in <hi>England,</hi> therefore how should we go unpunished: And so I conclude, desiring the Lord of his mercy to give us all Grace to amend our sinful Lives, and in the conclusion always to say with the Publycan, <hi>Lord have mercy on me a sinner:</hi> Amen.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> F. Coles, T. Vere, J. Wright, <hi>and</hi> J. Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
